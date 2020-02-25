@@ -4,3 +4,4 @@ A vector shares a lot of the same traits with an array, a vector is ubiquitous w
 
 Cited Sources: https://www.thegeekstuff.com/2014/02/cpp-stl-vector/ 
                http://www.cplusplus.com/reference/vector/vector/
+               https://stackoverflow.com/questions/508374/what-are-vectors-and-how-are-they-used-in-programming
